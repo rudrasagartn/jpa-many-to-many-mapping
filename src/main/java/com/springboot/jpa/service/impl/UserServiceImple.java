@@ -15,7 +15,7 @@ public class UserServiceImple implements IUserService {
 
 	@Override
 	public User getUser() {
-		return null;
+		return new User();
 	}
 
 	@Override
