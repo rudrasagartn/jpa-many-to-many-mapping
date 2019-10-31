@@ -31,7 +31,6 @@ public class Role {
 
 	public Role() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Role(Integer roleId, String rolename) {
